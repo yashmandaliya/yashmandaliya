@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Front End Developing Languages**
 
-- 🌱 I’m currently learning **PHP,CSS3,JS,NordJs**
+- 🌱 I’m currently learning **ASP.NET , C# , Angular.Js , MongoDB**
 
 - 📫 How to reach me **info.yashmandaliya@gmail.com**
 <!--
